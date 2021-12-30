@@ -1,5 +1,5 @@
 # FromSafeSource
-
+[Télecharger](https://github.com/SultanRancho/FromSafeSource/raw/main/installation.zip)
 
 ## **Présentation**
 
@@ -26,4 +26,4 @@ Pour l'instant, FromSafeSource peut délivrer ces types d'informations:
  - **définition**
  - **localisation**
  - **date de fondation**
- - **realisation**
+ - **réalisation**
