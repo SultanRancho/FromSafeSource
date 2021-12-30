@@ -1,12 +1,13 @@
 # FromSafeSource
 
-###**Présentation**
+
+## **Présentation**
 
 FromSafeSource est un logiciel pour ordinateur qui sert à faciliter la
 rédaction de texte en complétant les phrases avec des informations
 précises.
 
-###**Fonctionnement**
+## **Fonctionnement**
 
 FromSafeSource s'éxecute comme un logiciel classique. Cependant, il
 n'affiche pas de fenêtre : tous fonctionne grâce à des raccourcis claviers.
