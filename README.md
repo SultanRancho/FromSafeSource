@@ -17,8 +17,10 @@ n'affiche pas de fenêtre : tous fonctionne grâce à des raccourcis claviers.
     ctrl+alt+maj+d : arrêter FromSafeSource
 
 
-Les informations proviennent de Wikipédia. Cependant le logiciel peut-être
+Les informations proviennent de Wikipédia et allociné mais il peut-être
 très facilement réadapté pour une autre source comme l'encyclopédie Universalis.
+
+Il est recommandé de créer un raccourci **windows** et de lui associer un raccourci **clavier** ( comme ctrl+F ) pour pouvoir le démarrer aussi facilement que vous l'éteignez.
 
 Pour l'instant, FromSafeSource peut délivrer ces types d'informations:
  - **date de naissance**
