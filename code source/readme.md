@@ -17,7 +17,7 @@ Le code source contient plusieurs fichiers, chacun associé à une tache.
 
 **lien.py** : récupère tous les liens d'une page html, en filtrant par mot-clés, et en gérant des exclusions
 
-**list_source** : extrait les bons paramètres en fonction du type de source utilisé
+**list_source.py** : extrait les bons paramètres en fonction du type de source utilisé
 
 **main.py** : déclenche le logiciel, gère les notifiactions et le texte de surlignage
 
@@ -27,4 +27,4 @@ Le code source contient plusieurs fichiers, chacun associé à une tache.
 
 **source.py** : extrait le texte d'un fichier html
 
-**struct_source** : extrait le texte d'un fichier html sous une forme de liste strucuturée
+**struct_source.py** : extrait le texte d'un fichier html sous une forme de liste strucuturée
